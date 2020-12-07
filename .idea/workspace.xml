@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3fe6b78-3e01-417d-bbca-a18ec8cb0f6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/cd8246f0-a69a-402c-b8f0-0077459543af.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/samimiyetsiz-api.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +62,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="okay" />
+    <option name="LAST_COMMIT_MESSAGE" value="okay" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
   </component>
@@ -85,10 +78,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607030876315" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1607379726839">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1607380465262">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607379726839" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607380465262" />
     <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1607281820231">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -125,10 +118,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1607033361258" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607380391368">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1607380487644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607380391368" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607380487644" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607379697637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
