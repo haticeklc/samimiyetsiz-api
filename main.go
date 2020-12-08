@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"fmt"
 	"github.com/gofiber/fiber/v2"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
@@ -24,6 +25,8 @@ func main() {
 	userCollection := db.Collection("users")
 
 	app := fiber.New()
+
+	fmt.Println("hello git")
 
 	app.Post("/users", createUser(userCollection))
 	app.Get("/users", readUsers(userCollection))
