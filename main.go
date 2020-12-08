@@ -29,6 +29,8 @@ func main() {
 	//gjgkfkjsnskl
 	//assdffggh
 
+	//dfghj
+	//fghjk
 	fmt.Println("hello git")
 	//asdgjkş
 	//asdfghjkfgh
