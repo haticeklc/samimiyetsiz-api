@@ -25,10 +25,9 @@ func main() {
 	userCollection := db.Collection("users")
 
 	app := fiber.New()
-
+	//dfghj
+	//fghjk
 	fmt.Println("hello git")
-	//asdgjkş
-	//asdfghjkfgh
 
 	app.Post("/users", createUser(userCollection))
 	app.Get("/users", readUsers(userCollection))
