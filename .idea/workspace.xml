@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3fe6b78-3e01-417d-bbca-a18ec8cb0f6e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5d987904-dbac-4623-89a3-85e6c54cb916" name="Default Changelist" comment="hello git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,11 @@
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GoLibraries">
@@ -56,6 +61,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Go Build.go build samimiyetsiz-api" />
+        <item itemvalue="Go Build.go build samimiyetsiz-api" />
+        <item itemvalue="Go Build.go build samimiyetsiz-api" />
+        <item itemvalue="Go Build.go build samimiyetsiz-api" />
+        <item itemvalue="Go Build.go build samimiyetsiz-api" />
       </list>
     </recent_temporary>
   </component>
@@ -65,7 +74,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="okay" />
-    <option name="LAST_COMMIT_MESSAGE" value="okay" />
+    <MESSAGE value="hello git" />
+    <MESSAGE value="comment lines added" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment lines added" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
@@ -79,10 +90,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="386" y="45" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1607030876315" />
-    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1607380465262">
+    <state x="201" y="0" key="CommitChangelistDialog2" timestamp="1607410609951">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607380465262" />
+    <state x="201" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1607410609951" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1607410490189">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1607410490189" />
     <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1607281820231">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -123,6 +138,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1607380487644" />
+    <state x="463" y="77" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607410305033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="77" key="git4idea.branch.GitSmartOperationDialog/0.0.1366.728@0.0.1366.728" timestamp="1607410305033" />
     <state x="484" y="270" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1607379697637">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
