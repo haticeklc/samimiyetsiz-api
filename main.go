@@ -153,7 +153,7 @@ type User struct {
 	ID          primitive.ObjectID `bson:"_id" json:"id"`
 	Username    string             `bson:"username" json:"username"`
 	Password    string             `bson:"password" json:"password"`
-	CreatedDate time.Time          `json:"createdDate"`
+	CreatedDate time.Time          `bson:"created_date" json:"createdDate"`
 }
 
 func Connect() (*mongo.Database, error) {
