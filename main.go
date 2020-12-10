@@ -154,6 +154,7 @@ type User struct {
 	Username    string             `bson:"username" json:"username"`
 	Password    string             `bson:"password" json:"password"`
 	CreatedDate time.Time          `bson:"created_date" json:"createdDate"`
+	DeletedDate time.Time          `bson:"deleted_date" json:"deleteddate"`
 }
 
 func Connect() (*mongo.Database, error) {
