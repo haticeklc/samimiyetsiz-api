@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/gofiber/fiber/v2"
+	"github.com/gofiber/fiber/v2/middleware/cors"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -25,6 +26,7 @@ func main() {
 	userCollection := db.Collection("users")
 
 	app := fiber.New()
+	app.Use(cors.New())
 	//gdhjkfkf
 	//gjgkfkjsnskl
 	//assdffggh
@@ -154,8 +156,9 @@ type User struct {
 	Username    string             `bson:"username" json:"username"`
 	Password    string             `bson:"password" json:"password"`
 	CreatedDate time.Time          `bson:"created_date" json:"createdDate"`
-	DeletedDate time.Time          `bson:"deleted_date" json:"deletedDate"`        
+	DeletedDate time.Time          `bson:"deleted_date" json:"deletedDate"`
 	updatedDate time.Time          `bson:"updated_date"       json:"updatedDate"`
+	Email       string             `bson:"email" json:"email"`
 }
 
 func Connect() (*mongo.Database, error) {
