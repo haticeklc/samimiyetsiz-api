@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"github.com/gofiber/fiber/v2"
+	"github.com/gofiber/fiber/v2/middleware/cors"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -25,6 +26,7 @@ func main() {
 	userCollection := db.Collection("users")
 
 	app := fiber.New()
+	app.Use(cors.New())
 	//gdhjkfkf
 	//gjgkfkjsnskl
 	//assdffggh
